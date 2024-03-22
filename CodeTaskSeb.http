@@ -1,0 +1,6 @@
+@CodeTaskSeb_HostAddress = http://localhost:5036
+
+GET {{CodeTaskSeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
