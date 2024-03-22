@@ -6,5 +6,7 @@ Clone repo in VS and run.
 CRUD operations
 
 Due to certain limitations these parts were omitted:
+
 -database for repo, in-memory data is used
--kuberneted, https://docs.docker.com/language/dotnet/develop/ follow this guide to build for kubernetes. (add docker support, configure docker file, build coker image and run docker container)
+
+-kubernetes, https://docs.docker.com/language/dotnet/develop/ follow this guide to build for kubernetes. (add docker support, configure docker file, build coker image and run docker container)
